@@ -23,3 +23,5 @@ Editor: Visual Studio Code.
 
 Medición: Cronómetro interno de alta precisión (System.nanoTime).
 
+Para compilar el programa debe seleccionar el triangulo de la derecha
+
