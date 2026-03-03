@@ -25,3 +25,6 @@ Medición: Cronómetro interno de alta precisión (System.nanoTime).
 
 Para compilar el programa debe seleccionar el triangulo de la derecha
 
+Video demostrativo
+https://youtu.be/Sf-VcCyu8Hc
+
